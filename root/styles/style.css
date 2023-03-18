@@ -7,4 +7,27 @@
 
 header {
     background-color: #306BB3;
+    display: flex;
+    justify-content: space-between;
+
 }
+
+.ulheader{
+    display: flex;
+    justify-content: space-between;
+}
+
+section{
+    display: flex;
+}
+
+footer{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+}
+
